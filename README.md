@@ -1,2 +1,2 @@
 # AI-Projets
-This reo used for devloping AI projects 
+This repo used for devloping AI projects 
